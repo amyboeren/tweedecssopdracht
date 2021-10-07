@@ -1,0 +1,76 @@
+.black-border {
+    border: 2px solid purple;
+    padding: 50px;
+    margin: 2em;
+}
+.black-border-header {
+    border: 2px solid purple;
+    padding: 10px;
+    margin: 2em;
+}
+#background {
+    background-color: yellow;
+}
+hr {
+    border-top: 1px dotted black;
+}
+body {
+    background-color: lightcyan;
+    color: navy;
+    font-family: 'Poppins', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1 {
+    color: black;
+    font-family: 'Caveat', 'Tahoma';
+    font-style: italic;
+    text-align: center;
+    margin: 0 auto;
+    width: auto; 
+}
+h2 {
+    font-size: 17px;
+}
+h2.gerecht {
+    font-size: 25px;
+    font-family: "Sofia", sans-serif;
+    color: darkorchid;
+}
+h3.tip {
+    font-size: 20px;
+    font-family: "Audiowide", sans-serif;
+    color: darkred;
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding:10px;
+    margin: 0px 2em 0px 2em;
+}
+a {
+    padding-top: 1em;
+    padding-right: 1em;
+    padding-bottom: 1em;
+    padding-left: 2em;
+    color: black;
+    font-size: 18px;
+}
+ul.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #222;
+    height: auto;
+}
+li.menu {
+    display: inline;
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #111;
+  }
