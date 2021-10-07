@@ -8,6 +8,11 @@
     padding: 10px;
     margin: 2em;
 }
+.black-border-footer {
+    border: 2px solid purple;
+    padding: 1px;
+    margin: 2em;
+}
 #background {
     background-color: yellow;
 }
@@ -20,6 +25,12 @@ body {
     font-family: 'Poppins', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 h1 {
+    color: black;
+    font-family: 'Caveat', 'Tahoma';
+    font-style: italic;
+    text-align: center;
+}
+h1.center {
     color: black;
     font-family: 'Caveat', 'Tahoma';
     font-style: italic;
